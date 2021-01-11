@@ -7,11 +7,11 @@ The Avian Influenza could be the squeal to the coronavirus, lets try to do as mu
 
 ## ToDo 
 
-[ ]  Create a logo for this project
+- [ ]  Create a logo for this project
 
-[ ]  Unit Tests 
+- [ ]  Unit Tests 
 
-[ ]  Clean Code
+- [ ]  Clean Code
 
 ## Requirements
 * Make the code for the project under 500 lines of code
