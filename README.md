@@ -6,8 +6,11 @@ The Avian Influenza could be the squeal to the coronavirus, lets try to do as mu
 * It is 80 - 120 nm in diameter
 
 ## ToDo 
+
 [ ]  Create a logo for this project
+
 [ ]  Unit Tests 
+
 [ ]  Clean Code
 
 ## Requirements
