@@ -15,5 +15,7 @@ The Avian Influenza could be the squeal to the coronavirus, lets try to do as mu
 
 - [ ] Create a simple website where people can easily learn about Avian Influenza. Our job will be to make everything understandable to everyone, including children.
 
+- [ ] Use prexisting data to find new information about Avian Influenza
+
 ## Requirements
 * Make the code for the project under 500 lines of code
