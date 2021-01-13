@@ -18,4 +18,5 @@ The Avian Influenza could be the squeal to the coronavirus, lets try to do as mu
 - [ ] Use prexisting data to find new information about Avian Influenza
 
 ## Requirements
-* Make the code for the project under 500 lines of code
+* Make the code for the project under 500 lines of code, we can change the requirement but what I am trying to say is that the code must be written in a consise manner.
+
